@@ -1,13 +1,13 @@
-
-# Are We Underestimating AI?
-
+---
+title: Are We Underestimating AI?
+date: 25 June 2025
 ---
 
 There is a sentiment in our workplace that “The AI situation is well understood and perfectly under control”. Though comforting, this couldn’t be further from the truth. Advances in AI are kicking off an explosion of technological innovation that will drive the next industrial revolution with unprecedented scale and speed. My aim with this piece of writing is to convince you that this is likely and that we are ill prepared. In the pursuit of truth, an open dialogue that directly addresses skepticism is essential. If we are better informed, we will make better decisions when facing the challenges of the coming decade.
 
 TODO consider changing title to “Are we underestimating AI?” a less controversial way to ventilate your evidence/thinking. Invite the reader to be persuaded.
 
-## **Summary**
+# Summary
 
 You are time poor. If you are going to read anything, just read this section. I will layout my entire argument here and you can jump to the more detailed sections if you are sceptical or interested. Each section can be read independently.
 
@@ -76,7 +76,7 @@ Call to action, what should I do?
 
 TODO incorporate this [https://situational-awareness.ai/](https://situational-awareness.ai/)
 
-## **What to expect**
+# What to expect
 
 TODO incorporate this [https://ai-2027.com/](https://ai-2027.com/)  
 Less wrong [https://www.lesswrong.com/posts/TpSFoqoG2M5MAAesg/ai-2027-what-superintelligence-looks-like-1](https://www.lesswrong.com/posts/TpSFoqoG2M5MAAesg/ai-2027-what-superintelligence-looks-like-1)  
